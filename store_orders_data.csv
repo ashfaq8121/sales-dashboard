@@ -1,0 +1,201 @@
+Order ID,Order Date,Customer Name,State,City,Amount (₹),Profit (₹),Category,Sub-Category,Payment Mode
+1001,05-02-2025,Swati Reddy,Punjab,Ludhiana,6864,1886.87,Electronics,Smartwatch,Credit Card
+1002,20-01-2025,Swati Reddy,Uttar Pradesh,Lucknow,2681,496.38,Groceries,Dry Fruits,UPI
+1003,11-01-2025,Ravi Chandra,Telangana,Warangal,5440,1290.72,Electronics,Headphones,Credit Card
+1004,07-01-2025,Simran Kaur,Telangana,Hyderabad,9418,2397.48,Groceries,Snacks,Net Banking
+1005,15-01-2025,Karan Singh,Tamil Nadu,Coimbatore,1919,407.21,Home & Kitchen,Decor,UPI
+1006,17-02-2025,Simran Kaur,Uttar Pradesh,Kanpur,2425,701.85,Electronics,Headphones,UPI
+1007,02-03-2025,Ankit Mehta,Uttar Pradesh,Lucknow,3412,575.5,Groceries,Dry Fruits,Debit Card
+1008,08-01-2025,Priya Verma,Madhya Pradesh,Gwalior,9509,1986.96,Fashion,Watches,Credit Card
+1009,25-01-2025,Nitin Sinha,Gujarat,Vadodara,9119,1774.87,Appliances,Microwave,UPI
+1010,07-01-2025,Swati Reddy,Delhi,New Delhi,7351,1808.71,Appliances,Washing Machine,Credit Card
+1011,23-01-2025,Meera Iyer,Uttar Pradesh,Lucknow,1154,174.97,Home & Kitchen,Cookware,Cash
+1012,09-02-2025,Alok Mishra,West Bengal,Howrah,4332,979.23,Electronics,Headphones,Net Banking
+1013,03-02-2025,Nitin Sinha,Delhi,New Delhi,5443,1349.74,Home & Kitchen,Storage,Net Banking
+1014,25-01-2025,Alok Mishra,Telangana,Hyderabad,5225,772.3,Electronics,Tablet,Credit Card
+1015,14-02-2025,Rajesh Yadav,Gujarat,Surat,9654,1280,Electronics,Headphones,Net Banking
+1016,14-02-2025,Ravi Chandra,Tamil Nadu,Madurai,2724,471.61,Home & Kitchen,Decor,Cash
+1017,22-02-2025,Meera Iyer,Uttar Pradesh,Varanasi,9584,2075.37,Home & Kitchen,Storage,UPI
+1018,19-02-2025,Rahul Sharma,Gujarat,Ahmedabad,1745,426.42,Appliances,Microwave,Cash
+1019,13-01-2025,Vikram Khanna,Madhya Pradesh,Indore,1954,276.71,Electronics,Smartwatch,Net Banking
+1020,19-02-2025,Amit Tandon,Tamil Nadu,Madurai,1334,379.29,Home & Kitchen,Furniture,Debit Card
+1021,22-02-2025,Meera Iyer,Uttar Pradesh,Varanasi,4100,1132.16,Electronics,Mobile,Net Banking
+1022,22-01-2025,Alok Mishra,Delhi,New Delhi,7520,2186.04,Groceries,Beverages,UPI
+1023,27-02-2025,Priya Verma,Uttar Pradesh,Kanpur,3356,449.38,Electronics,Smartwatch,Credit Card
+1024,12-01-2025,Sneha Roy,Karnataka,Hubli,4768,1334.35,Fashion,Footwear,Debit Card
+1025,21-02-2025,Amit Tandon,Karnataka,Hubli,3073,907.93,Fashion,Footwear,Credit Card
+1026,02-01-2025,Priya Verma,Maharashtra,Nagpur,3007,334.11,Groceries,Snacks,Net Banking
+1027,03-02-2025,Amit Tandon,Madhya Pradesh,Indore,4514,766.3,Groceries,Dry Fruits,Credit Card
+1028,02-03-2025,Vikram Khanna,Gujarat,Surat,7266,2147.13,Appliances,Microwave,Credit Card
+1029,04-01-2025,Alok Mishra,Telangana,Nizamabad,7944,871.18,Appliances,Refrigerator,UPI
+1030,02-03-2025,Swati Reddy,Punjab,Ludhiana,9583,2495.54,Appliances,Microwave,Credit Card
+1031,17-02-2025,Simran Kaur,Maharashtra,Mumbai,8315,1636.29,Fashion,Accessories,Net Banking
+1032,27-02-2025,Ankit Mehta,Delhi,New Delhi,9476,2065.83,Appliances,Microwave,Credit Card
+1033,30-01-2025,Sneha Roy,Uttar Pradesh,Lucknow,6612,1374.72,Fashion,Accessories,Credit Card
+1034,09-02-2025,Rajesh Yadav,Tamil Nadu,Chennai,6632,1000.99,Home & Kitchen,Storage,Debit Card
+1035,21-01-2025,Priya Verma,Tamil Nadu,Chennai,4193,588.64,Appliances,Microwave,Net Banking
+1036,23-02-2025,Ravi Chandra,West Bengal,Howrah,7701,1808.59,Electronics,Tablet,Debit Card
+1037,11-02-2025,Priya Verma,Delhi,New Delhi,3416,711.46,Electronics,Laptop,Net Banking
+1038,31-01-2025,Ankit Mehta,Delhi,New Delhi,4206,473.98,Fashion,Accessories,Debit Card
+1039,12-02-2025,Ankit Mehta,Uttar Pradesh,Lucknow,1524,292.88,Appliances,Microwave,Cash
+1040,10-02-2025,Alok Mishra,West Bengal,Durgapur,4370,1127.41,Home & Kitchen,Storage,UPI
+1041,11-02-2025,Pooja Agarwal,Madhya Pradesh,Gwalior,5495,635,Electronics,Mobile,Cash
+1042,06-01-2025,Nitin Sinha,Punjab,Jalandhar,4385,561.78,Appliances,Microwave,Cash
+1043,19-02-2025,Karan Singh,Delhi,New Delhi,4538,1037.49,Home & Kitchen,Decor,Credit Card
+1044,09-01-2025,Priya Verma,Tamil Nadu,Madurai,3564,372.99,Appliances,Washing Machine,Net Banking
+1045,05-02-2025,Karan Singh,Punjab,Amritsar,9350,1484.76,Groceries,Beverages,Net Banking
+1046,23-01-2025,Nitin Sinha,Delhi,New Delhi,7206,1628.36,Appliances,Refrigerator,Debit Card
+1047,26-01-2025,Amit Tandon,Karnataka,Mysore,9296,1945.35,Electronics,Tablet,Debit Card
+1048,06-02-2025,Rajesh Yadav,Karnataka,Mysore,9940,2065.39,Groceries,Spices,Net Banking
+1049,06-02-2025,Amit Tandon,Delhi,New Delhi,8056,926.65,Groceries,Snacks,Debit Card
+1050,08-01-2025,Sneha Roy,Maharashtra,Pune,5197,1278.37,Groceries,Dry Fruits,Credit Card
+1051,04-01-2025,Rahul Sharma,Tamil Nadu,Coimbatore,10000,2554.73,Appliances,Microwave,Credit Card
+1052,16-02-2025,Rajesh Yadav,Madhya Pradesh,Indore,3593,1028.25,Fashion,Watches,UPI
+1053,08-01-2025,Rahul Sharma,Telangana,Hyderabad,1705,387.01,Fashion,Footwear,Debit Card
+1054,18-01-2025,Nitin Sinha,Maharashtra,Pune,3796,1051.12,Fashion,Footwear,Credit Card
+1055,15-02-2025,Nitin Sinha,Delhi,New Delhi,1835,452.95,Fashion,Footwear,Net Banking
+1056,23-01-2025,Nitin Sinha,Maharashtra,Pune,5353,561.81,Home & Kitchen,Cookware,Debit Card
+1057,17-02-2025,Vikram Khanna,Gujarat,Surat,9174,2257.35,Fashion,Watches,Cash
+1058,04-01-2025,Swati Reddy,Punjab,Ludhiana,8442,2170.8,Home & Kitchen,Furniture,UPI
+1059,18-02-2025,Simran Kaur,Telangana,Hyderabad,3496,781.23,Home & Kitchen,Furniture,UPI
+1060,25-02-2025,Sneha Roy,Madhya Pradesh,Indore,5189,892.73,Electronics,Tablet,UPI
+1061,07-02-2025,Swati Reddy,Delhi,New Delhi,6202,1555.25,Groceries,Dry Fruits,Net Banking
+1062,10-01-2025,Karan Singh,Madhya Pradesh,Bhopal,4860,1033.16,Electronics,Laptop,Net Banking
+1063,15-02-2025,Simran Kaur,Gujarat,Surat,1288,356.38,Fashion,Accessories,Net Banking
+1064,02-03-2025,Pooja Agarwal,Gujarat,Surat,8813,1637.76,Groceries,Beverages,UPI
+1065,11-01-2025,Karan Singh,Madhya Pradesh,Gwalior,3455,560.2,Appliances,Washing Machine,Net Banking
+1066,21-01-2025,Nitin Sinha,Uttar Pradesh,Kanpur,3575,744.98,Fashion,Accessories,Cash
+1067,12-01-2025,Priya Verma,Madhya Pradesh,Bhopal,7518,1767.06,Groceries,Snacks,Debit Card
+1068,10-02-2025,Pooja Agarwal,Madhya Pradesh,Indore,7677,1480.27,Electronics,Tablet,Credit Card
+1069,01-03-2025,Meera Iyer,Maharashtra,Pune,3009,762.54,Electronics,Mobile,Net Banking
+1070,28-01-2025,Sneha Roy,Uttar Pradesh,Varanasi,3662,386.25,Appliances,Microwave,Credit Card
+1071,18-01-2025,Karan Singh,Gujarat,Surat,3204,426.55,Appliances,Refrigerator,Credit Card
+1072,19-01-2025,Vikram Khanna,Punjab,Jalandhar,7822,1406.21,Fashion,Footwear,Debit Card
+1073,09-02-2025,Meera Iyer,Punjab,Jalandhar,5324,1548.94,Groceries,Beverages,Credit Card
+1074,16-01-2025,Sneha Roy,Punjab,Amritsar,7362,1212.08,Fashion,Clothing,UPI
+1075,06-02-2025,Pooja Agarwal,West Bengal,Howrah,3389,518.67,Groceries,Snacks,Debit Card
+1076,11-02-2025,Priya Verma,Maharashtra,Nagpur,2396,356.26,Electronics,Smartwatch,Cash
+1077,01-02-2025,Karan Singh,Karnataka,Bangalore,3684,1050.15,Fashion,Footwear,Credit Card
+1078,14-02-2025,Meera Iyer,Karnataka,Bangalore,9500,1675.78,Electronics,Smartwatch,Credit Card
+1079,23-01-2025,Pooja Agarwal,Tamil Nadu,Madurai,1902,239.38,Appliances,Refrigerator,UPI
+1080,17-02-2025,Alok Mishra,Gujarat,Ahmedabad,6246,1554.12,Groceries,Dry Fruits,Credit Card
+1081,22-02-2025,Vikram Khanna,Tamil Nadu,Chennai,3015,503.62,Home & Kitchen,Furniture,Cash
+1082,07-02-2025,Ravi Chandra,Telangana,Hyderabad,8988,1994.02,Fashion,Clothing,Credit Card
+1083,11-02-2025,Ravi Chandra,Delhi,New Delhi,2786,582.63,Electronics,Mobile,Debit Card
+1084,09-01-2025,Rahul Sharma,Karnataka,Mysore,1536,291.05,Electronics,Tablet,UPI
+1085,26-02-2025,Swati Reddy,Karnataka,Mysore,8023,1711.89,Fashion,Accessories,Debit Card
+1086,09-02-2025,Rajesh Yadav,Gujarat,Ahmedabad,9079,1057.82,Appliances,Washing Machine,UPI
+1087,08-02-2025,Ankit Mehta,Tamil Nadu,Coimbatore,5974,1089.47,Fashion,Footwear,Cash
+1088,07-02-2025,Sneha Roy,Telangana,Warangal,8615,1684.44,Fashion,Clothing,Cash
+1089,21-01-2025,Simran Kaur,Punjab,Jalandhar,2818,589.01,Groceries,Dry Fruits,Credit Card
+1090,08-01-2025,Vikram Khanna,Gujarat,Ahmedabad,2295,390.53,Electronics,Smartwatch,UPI
+1091,01-02-2025,Alok Mishra,Telangana,Warangal,7181,2056.64,Fashion,Watches,UPI
+1092,06-02-2025,Vikram Khanna,Telangana,Hyderabad,5133,520.55,Electronics,Tablet,Net Banking
+1093,16-01-2025,Nitin Sinha,Maharashtra,Mumbai,9112,1739.32,Electronics,Headphones,Cash
+1094,13-01-2025,Ankit Mehta,Tamil Nadu,Madurai,7618,867.3,Appliances,Refrigerator,UPI
+1095,03-02-2025,Priya Verma,Tamil Nadu,Madurai,4208,611.73,Home & Kitchen,Cookware,Net Banking
+1096,22-02-2025,Simran Kaur,Madhya Pradesh,Gwalior,9947,2102.1,Fashion,Footwear,Debit Card
+1097,02-03-2025,Alok Mishra,Punjab,Ludhiana,3029,461.63,Home & Kitchen,Storage,Net Banking
+1098,08-01-2025,Swati Reddy,Uttar Pradesh,Kanpur,5291,1324.74,Home & Kitchen,Cookware,Net Banking
+1099,26-01-2025,Vikram Khanna,West Bengal,Kolkata,8874,1848.8,Groceries,Dry Fruits,Cash
+1100,05-01-2025,Simran Kaur,Delhi,New Delhi,1762,421.99,Electronics,Smartwatch,Cash
+1101,01-03-2025,Alok Mishra,West Bengal,Kolkata,1121,313.17,Groceries,Dry Fruits,Credit Card
+1102,23-03-2025,Priya Verma,West Bengal,Kolkata,5006,1313.9,Fashion,Clothing,Credit Card
+1103,12-04-2025,Ankit Mehta,Tamil Nadu,Coimbatore,1052,170.54,Home & Kitchen,Cookware,Credit Card
+1104,12-03-2025,Simran Kaur,West Bengal,Durgapur,4157,910.87,Home & Kitchen,Cookware,Debit Card
+1105,14-03-2025,Meera Iyer,Delhi,New Delhi,2458,459.94,Fashion,Watches,Debit Card
+1106,16-04-2025,Meera Iyer,Madhya Pradesh,Gwalior,1183,277.6,Fashion,Footwear,Net Banking
+1107,21-03-2025,Meera Iyer,Maharashtra,Nagpur,6147,789.77,Groceries,Spices,Cash
+1108,06-03-2025,Rahul Sharma,West Bengal,Howrah,6799,1871.79,Home & Kitchen,Cookware,Debit Card
+1109,28-03-2025,Priya Verma,Uttar Pradesh,Lucknow,1318,305.67,Home & Kitchen,Cookware,Debit Card
+1110,02-03-2025,Amit Tandon,Delhi,New Delhi,5819,1108.26,Home & Kitchen,Cookware,Debit Card
+1111,18-04-2025,Rahul Sharma,Delhi,New Delhi,5595,1030.56,Fashion,Clothing,UPI
+1112,07-03-2025,Rahul Sharma,Punjab,Ludhiana,7998,1950.44,Appliances,Refrigerator,UPI
+1113,07-03-2025,Pooja Agarwal,Karnataka,Hubli,9191,2675.38,Fashion,Footwear,Cash
+1114,20-03-2025,Rajesh Yadav,Madhya Pradesh,Indore,2777,749.33,Appliances,Refrigerator,Cash
+1115,08-04-2025,Priya Verma,West Bengal,Durgapur,4381,777.78,Electronics,Mobile,Credit Card
+1116,28-03-2025,Karan Singh,Karnataka,Bangalore,7295,2114.82,Electronics,Smartwatch,Net Banking
+1117,04-03-2025,Sneha Roy,Tamil Nadu,Madurai,2431,365.55,Electronics,Tablet,Credit Card
+1118,14-03-2025,Nitin Sinha,Maharashtra,Nagpur,6597,1827.98,Fashion,Accessories,Cash
+1119,25-04-2025,Priya Verma,Madhya Pradesh,Bhopal,8376,1357.34,Groceries,Spices,Debit Card
+1120,15-03-2025,Alok Mishra,Uttar Pradesh,Lucknow,8986,1421.24,Groceries,Spices,UPI
+1121,14-03-2025,Amit Tandon,Karnataka,Mysore,5075,998.81,Home & Kitchen,Decor,Credit Card
+1122,25-04-2025,Priya Verma,Gujarat,Surat,8252,2119.57,Appliances,Refrigerator,Cash
+1123,18-03-2025,Ravi Chandra,Uttar Pradesh,Lucknow,8952,1269.1,Appliances,Microwave,Cash
+1124,28-04-2025,Pooja Agarwal,Karnataka,Hubli,8049,1211.09,Appliances,Washing Machine,Net Banking
+1125,27-04-2025,Sneha Roy,Gujarat,Ahmedabad,7665,1845.61,Home & Kitchen,Cookware,Cash
+1126,08-04-2025,Pooja Agarwal,Maharashtra,Mumbai,6669,958.47,Groceries,Beverages,Cash
+1127,01-04-2025,Rajesh Yadav,Maharashtra,Pune,1763,411.28,Home & Kitchen,Storage,Credit Card
+1128,11-03-2025,Rajesh Yadav,Madhya Pradesh,Indore,2628,640.81,Fashion,Watches,Credit Card
+1129,03-03-2025,Vikram Khanna,Uttar Pradesh,Lucknow,3321,662.05,Home & Kitchen,Cookware,UPI
+1130,12-04-2025,Amit Tandon,Uttar Pradesh,Kanpur,8625,1854.51,Electronics,Headphones,Debit Card
+1131,24-04-2025,Meera Iyer,Tamil Nadu,Chennai,3958,422.83,Electronics,Tablet,UPI
+1132,05-04-2025,Swati Reddy,Telangana,Hyderabad,6236,697.39,Appliances,Washing Machine,Net Banking
+1133,28-03-2025,Ankit Mehta,Uttar Pradesh,Lucknow,4722,1410.7,Electronics,Laptop,Credit Card
+1134,31-03-2025,Rahul Sharma,Gujarat,Vadodara,1086,317.1,Electronics,Smartwatch,Cash
+1135,24-04-2025,Alok Mishra,Tamil Nadu,Chennai,5984,890.05,Fashion,Clothing,Debit Card
+1136,15-04-2025,Ankit Mehta,Maharashtra,Pune,8366,1195.62,Appliances,Washing Machine,Cash
+1137,13-03-2025,Meera Iyer,Maharashtra,Mumbai,5388,1295.84,Groceries,Dry Fruits,UPI
+1138,11-03-2025,Priya Verma,Karnataka,Hubli,2382,290.87,Appliances,Microwave,Debit Card
+1139,19-04-2025,Nitin Sinha,Tamil Nadu,Madurai,5667,1134.56,Appliances,Washing Machine,UPI
+1140,07-03-2025,Alok Mishra,West Bengal,Durgapur,5303,1165.03,Electronics,Mobile,Credit Card
+1141,17-04-2025,Rahul Sharma,Maharashtra,Nagpur,4786,1350.15,Electronics,Laptop,Debit Card
+1142,16-04-2025,Alok Mishra,Madhya Pradesh,Gwalior,1525,353.62,Electronics,Laptop,Net Banking
+1143,10-04-2025,Swati Reddy,Karnataka,Hubli,8608,2346.36,Electronics,Tablet,Cash
+1144,21-04-2025,Pooja Agarwal,Karnataka,Mysore,2832,593.92,Electronics,Headphones,UPI
+1145,18-03-2025,Ravi Chandra,Gujarat,Vadodara,9393,2383.14,Appliances,Microwave,Cash
+1146,13-04-2025,Amit Tandon,Tamil Nadu,Chennai,7963,813.07,Groceries,Spices,Debit Card
+1147,28-04-2025,Amit Tandon,Uttar Pradesh,Lucknow,8047,847.79,Home & Kitchen,Storage,Cash
+1148,01-04-2025,Vikram Khanna,Tamil Nadu,Chennai,1614,189.96,Electronics,Mobile,Credit Card
+1149,30-04-2025,Rajesh Yadav,Tamil Nadu,Madurai,6718,987.07,Electronics,Headphones,Cash
+1150,18-04-2025,Karan Singh,Tamil Nadu,Chennai,8937,1385.49,Fashion,Accessories,Net Banking
+1151,27-04-2025,Vikram Khanna,Telangana,Hyderabad,3747,648.68,Home & Kitchen,Storage,Net Banking
+1152,29-03-2025,Sneha Roy,West Bengal,Durgapur,2721,727.51,Electronics,Tablet,UPI
+1153,17-03-2025,Rahul Sharma,Maharashtra,Pune,9440,2222.06,Appliances,Washing Machine,Cash
+1154,25-04-2025,Alok Mishra,Uttar Pradesh,Lucknow,1469,329.26,Home & Kitchen,Cookware,Net Banking
+1155,15-03-2025,Vikram Khanna,Madhya Pradesh,Indore,6585,909.51,Electronics,Laptop,UPI
+1156,27-03-2025,Ravi Chandra,Maharashtra,Pune,7838,1129.15,Appliances,Refrigerator,Credit Card
+1157,19-04-2025,Nitin Sinha,Maharashtra,Nagpur,8713,1128.31,Electronics,Laptop,Cash
+1158,28-04-2025,Rajesh Yadav,Tamil Nadu,Coimbatore,8260,2357.05,Appliances,Washing Machine,Debit Card
+1159,19-03-2025,Sneha Roy,Gujarat,Vadodara,8799,1535.83,Appliances,Washing Machine,Debit Card
+1160,03-04-2025,Ankit Mehta,Gujarat,Ahmedabad,2431,565.97,Electronics,Headphones,Cash
+1161,08-03-2025,Sneha Roy,Delhi,New Delhi,3197,405.09,Fashion,Watches,Credit Card
+1162,16-03-2025,Sneha Roy,West Bengal,Kolkata,3816,648.06,Groceries,Snacks,UPI
+1163,29-04-2025,Swati Reddy,Maharashtra,Pune,9375,1310.87,Fashion,Footwear,Debit Card
+1164,31-03-2025,Ravi Chandra,Uttar Pradesh,Lucknow,8520,865.84,Fashion,Watches,Credit Card
+1165,19-03-2025,Vikram Khanna,Telangana,Nizamabad,8973,2521.85,Electronics,Mobile,UPI
+1166,15-03-2025,Karan Singh,Madhya Pradesh,Indore,8332,1710.38,Fashion,Footwear,Credit Card
+1167,07-04-2025,Meera Iyer,Madhya Pradesh,Indore,4050,783.61,Home & Kitchen,Furniture,Cash
+1168,12-04-2025,Alok Mishra,Uttar Pradesh,Lucknow,5660,1006.47,Electronics,Smartwatch,Net Banking
+1169,27-03-2025,Vikram Khanna,West Bengal,Kolkata,3728,843.14,Fashion,Accessories,Debit Card
+1170,22-04-2025,Simran Kaur,Punjab,Amritsar,1535,193.55,Home & Kitchen,Storage,Net Banking
+1171,20-04-2025,Ravi Chandra,Punjab,Jalandhar,1431,254.98,Appliances,Washing Machine,UPI
+1172,03-04-2025,Alok Mishra,West Bengal,Durgapur,1649,394.99,Appliances,Microwave,Net Banking
+1173,24-04-2025,Nitin Sinha,Punjab,Amritsar,5048,1022.71,Groceries,Beverages,Debit Card
+1174,16-03-2025,Pooja Agarwal,Maharashtra,Pune,1307,258.97,Electronics,Laptop,UPI
+1175,17-03-2025,Vikram Khanna,Tamil Nadu,Madurai,4558,1264.65,Home & Kitchen,Decor,Debit Card
+1176,11-04-2025,Nitin Sinha,Tamil Nadu,Coimbatore,4788,956.52,Electronics,Headphones,Net Banking
+1177,19-03-2025,Nitin Sinha,Delhi,New Delhi,9844,2538.7,Fashion,Accessories,UPI
+1178,30-04-2025,Rahul Sharma,West Bengal,Durgapur,2768,323.95,Electronics,Smartwatch,Cash
+1179,11-04-2025,Nitin Sinha,Uttar Pradesh,Lucknow,4205,1094.5,Home & Kitchen,Cookware,UPI
+1180,07-03-2025,Karan Singh,Telangana,Nizamabad,8179,925.46,Home & Kitchen,Decor,Cash
+1181,08-03-2025,Ankit Mehta,Gujarat,Ahmedabad,5945,1736.49,Groceries,Beverages,UPI
+1182,22-03-2025,Swati Reddy,Maharashtra,Nagpur,8200,1837.64,Groceries,Snacks,Net Banking
+1183,12-03-2025,Ankit Mehta,Punjab,Ludhiana,7003,1531.67,Appliances,Washing Machine,Credit Card
+1184,09-03-2025,Meera Iyer,Madhya Pradesh,Gwalior,9281,1885.45,Groceries,Dry Fruits,Credit Card
+1185,19-04-2025,Amit Tandon,Telangana,Warangal,5867,1600.61,Home & Kitchen,Decor,Net Banking
+1186,08-03-2025,Alok Mishra,Delhi,New Delhi,6576,1526.75,Electronics,Tablet,Credit Card
+1187,27-04-2025,Karan Singh,Tamil Nadu,Chennai,8054,1915.7,Appliances,Washing Machine,Cash
+1188,21-04-2025,Nitin Sinha,Uttar Pradesh,Lucknow,6433,1635.51,Appliances,Microwave,Cash
+1189,15-04-2025,Meera Iyer,Uttar Pradesh,Lucknow,2677,504.01,Electronics,Headphones,Debit Card
+1190,08-03-2025,Nitin Sinha,Maharashtra,Pune,2826,331.93,Groceries,Spices,Credit Card
+1191,02-04-2025,Meera Iyer,Uttar Pradesh,Varanasi,8298,1930.26,Home & Kitchen,Cookware,Credit Card
+1192,02-03-2025,Swati Reddy,Telangana,Warangal,7070,1852.35,Fashion,Accessories,Debit Card
+1193,14-03-2025,Sneha Roy,Madhya Pradesh,Gwalior,5755,850.57,Fashion,Footwear,UPI
+1194,20-03-2025,Rajesh Yadav,Uttar Pradesh,Kanpur,8687,1722.14,Electronics,Headphones,Net Banking
+1195,01-04-2025,Ravi Chandra,West Bengal,Howrah,3922,828.62,Groceries,Beverages,Credit Card
+1196,15-03-2025,Vikram Khanna,Maharashtra,Nagpur,2341,281.93,Fashion,Clothing,Credit Card
+1197,17-03-2025,Pooja Agarwal,Punjab,Amritsar,5272,679.17,Appliances,Microwave,Credit Card
+1198,21-03-2025,Meera Iyer,Telangana,Hyderabad,5514,1588.75,Electronics,Laptop,Debit Card
+1199,03-04-2025,Amit Tandon,Delhi,New Delhi,2161,287.65,Home & Kitchen,Storage,Net Banking
+1200,21-04-2025,Ankit Mehta,West Bengal,Howrah,2377,376.91,Groceries,Beverages,UPI
